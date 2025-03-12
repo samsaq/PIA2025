@@ -1,0 +1,10 @@
+# Local development
+.vercel
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Generated files
+test_output.wav
+temp_*
